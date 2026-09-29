@@ -1,4 +1,4 @@
-# 🌾 AI What-If Season Planner   OUR PROTOTYPE LINK: https://ais-dev-6l7ef353ssxgxelgagn6k2-125368940617.asia-southeast1.run.app/
+# 🌾 AI What-If Season Planner   OUR PROTOTYPE LINK: https://ai.studio/apps/149a3922-8e41-4cee-bccd-ba3934170984
 
 ### Don't just predict the harvest. Simulate the season before it happens.
 
