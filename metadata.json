@@ -1,0 +1,6 @@
+{
+  "name": "AI What-If Season Planner",
+  "description": "Don’t just predict the harvest. Simulate the season before it happens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
